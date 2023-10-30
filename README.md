@@ -1,1 +1,7 @@
-# Gabriele
+- olá esse é o meu perfil!
+- 
+- Meu nome é Gabriele, mas pode me chamar de Gaby
+- Meu Instagram é @pretty_yuu.kkjk , você pode entrar em contato lá
+- Estou estudando na plataforma [alura](https://ww.alura.com.br/)
+- 
+- ![image](https://github.com/BjYuri69/Gabriele/assets/149431086/9ae166d9-6825-434b-920f-c21775e8513b)
